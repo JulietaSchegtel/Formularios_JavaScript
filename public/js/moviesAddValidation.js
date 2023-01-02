@@ -15,6 +15,7 @@ window.onload = function(){
     let releaseDate= document.getElementById('release_date');
     let length = document.getElementById('length');
     let genre = document.getElementById('genre_id');
+    
 
     let form = document.getElementById('form');
     let input = document.querySelectorAll('input');
